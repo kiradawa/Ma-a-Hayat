@@ -13,7 +13,7 @@ https://nyuad.nyu.edu/en/events/2023/april/nyuad-hackathon-event.html
 
 ## Presentation
 
-_The Slides can be viewed at [information]([https://www.canva.com/design/DAFheTueBTE/iKTIXVJDEhtiVuoBL80QyA/view](https://docs.google.com/presentation/d/1wnxY3m3wRkySFMS2DDy2_sYYnFJjTnCVVsLxFNnXucg/edit?usp=sharing))._
+_The Slides can be viewed at [Slides](https://docs.google.com/presentation/d/1wnxY3m3wRkySFMS2DDy2_sYYnFJjTnCVVsLxFNnXucg/edit?usp=sharing)._
 
 ## Motivation
 
