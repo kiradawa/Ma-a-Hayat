@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\css\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\fonts\\fl-bigmug-line.woff",
+      "PackagePath": "staticwebassets\\fonts\\fl-bigmug-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\images\\blog-layouts-5-637x456.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-layouts-5-637x456.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\images\\call-to-action-1-1920x584.jpg",
+      "PackagePath": "staticwebassets\\images\\call-to-action-1-1920x584.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\images\\index-01-711x429.png",
+      "PackagePath": "staticwebassets\\images\\index-01-711x429.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\images\\logo-default-132x34.png",
+      "PackagePath": "staticwebassets\\images\\logo-default-132x34.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\images\\slider-business-slide-1-1920x800.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-business-slide-1-1920x800.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\images\\slider-business-slide-2-1920x800.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-business-slide-2-1920x800.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\images\\testimonials-person-1-96x96.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials-person-1-96x96.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\images\\testimonials-person-2-96x96.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials-person-2-96x96.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\images\\testimonials-person-3-96x96.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials-person-3-96x96.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\images\\testimonials-person-4-96x96.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials-person-4-96x96.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\images\\water-01-138x197.png",
+      "PackagePath": "staticwebassets\\images\\water-01-138x197.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\images\\water-02-138x197.png",
+      "PackagePath": "staticwebassets\\images\\water-02-138x197.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\images\\water-03-138x197.png",
+      "PackagePath": "staticwebassets\\images\\water-03-138x197.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\images\\water-04-138x197.png",
+      "PackagePath": "staticwebassets\\images\\water-04-138x197.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\js\\core.min.js",
+      "PackagePath": "staticwebassets\\js\\core.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\MaaHayat_PROJ\\MaaHayat\\MaaHayat\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MaaHayat.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MaaHayat.props",
+      "PackagePath": "build\\MaaHayat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MaaHayat.props",
+      "PackagePath": "buildMultiTargeting\\MaaHayat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MaaHayat.props",
+      "PackagePath": "buildTransitive\\MaaHayat.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
